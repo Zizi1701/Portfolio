@@ -1,7 +1,7 @@
 # 💻 Aziz SW Portfolio
 
 Welcome to my personal portfolio repository!  
-Thia Project site is live at https://zizi1701.github.io/Portfolio/
+This Project site is live at https://zizi1701.github.io/Portfolio/
 This repo showcases a collection of projects I’ve worked on as an Information Systems student — from UI/UX case studies and academic system designs to health-tech app concepts and business competition strategies.
 
 ---
